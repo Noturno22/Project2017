@@ -1,0 +1,157 @@
+/* CSS Document */
+@charset "utf-8";
+@font-face{
+	font-family:"Gangstar";
+	src:url(Fontes/deathrattlebb_reg.ttf);
+	}
+	body{
+		background: url(../Fotos/_Fundos/multicolor-floral-design_1215-613.jpg) fixed;
+        width:400px;
+        font-size:12px;
+    }
+    h1,h2{
+    	text-shadow:1px 1px 1px #000; 
+    	text-align:center;
+		}
+		a{
+			color:#000;
+			text-decoration:none;
+		}
+		#if{
+			border-radius:5px 5px 0px 0px;
+			box-shadow:1px 2px 2px 2px #1d1c1c;
+			background-color:#fff;
+			width:398px;
+			height:160px;
+			text-shadow:1px 1px 1px; 
+			font-size:18px;
+			border:1px solid #000;
+		}
+		#el{
+			box-shadow:1px 2px 2px 2px #1d1c1c;
+			background-color:#fff;
+			width:398px;
+			height:160px;
+			text-shadow:1px 1px 1px; 
+			font-size:18px;
+			border:1px solid #000;
+		}
+		#er{
+			box-shadow:1px 2px 2px 2px #1d1c1c;
+			background-color:#fff;
+			width:398px;
+			height:160px;
+			text-shadow:1px 1px 1px; 
+			font-size:18px;
+			border:1px solid #000;
+		}
+		#mc{
+			box-shadow:1px 2px 2px 2px #1d1c1c;
+			background-color:#fff;
+			width:398px;
+			height:160px;
+			text-shadow:1px 1px 1px; 
+			font-size:18px;
+			border:1px solid #000;
+		}
+		#mc{
+			box-shadow:1px 2px 2px 2px #1d1c1c;
+			background-color:#fff;
+			width:398px;
+			height:160px;
+			text-shadow:1px 1px 1px; 
+			font-size:18px;
+			border:1px solid #000;
+		}
+		#cc{
+			box-shadow:1px 2px 2px 2px #1d1c1c;
+			background-color:#fff;
+			width:398px;
+			height:160px;
+			text-shadow:1px 1px 1px; 
+			font-size:18px;
+			border:1px solid #000;
+		}
+		#ds{
+
+			border-radius:0px 0px 5px 5px ;
+			box-shadow:1px 2px 2px 2px #1d1c1c;
+			background-color:#fff;
+			width:398px;
+			height:160px;
+			text-shadow:1px 1px 1px; 
+			font-size:18px;
+			border:1px solid #000;
+		}
+		#cursos{
+			border-radius:17px;
+			color:#fff;
+			text-shadow:1px 1px 1px #000; 
+			font-size:20px;
+			margin:0px;
+			padding: 0px;
+			border:1px solid #000;
+			background:#55174a;}
+		#Interface{
+			border:px solid #ffd;
+		   padding-bottom: 5px;
+		}
+          
+		#voltar{
+			position: relative;
+			border:0px solid #000;
+			text-align:center;
+			float:left;			
+			}
+
+		#Cabecalho{
+			border:0px solid #000;
+			text-align:center;			
+			}
+		footer#rodape{
+			float:right;
+	    margin-top:2px;
+	    left:100px;
+        clear:both;
+        }
+
+				
+	/*BARRA DE PESQUISA*/
+			
+.none{
+	text-decoration:none;
+	border:1px solid #000;
+	width:280px;
+	height:30px;
+	opacity:0.5;
+	border-radius:15px;
+	margin-left:52px;
+	box-shadow:1px 3px 3px #000;
+	}
+.mome{
+	height:30px;
+	border:0px solid #000;
+	padding: 0;
+	margin: 0;
+	width:50px;
+	border-radius: 0px 5px 5px 0px; }
+	
+.none:hover{
+	transition:2s;
+	width:280px;
+	height:30px;
+	opacity:1.0;
+	border-radius:15px;
+	border:1px solid #000;
+	box-shadow:0px 0px 3px #7b7b7b;
+}
+.mome:hover{height: 30px;
+	border: 1px solid #000;
+	background: #a30202;color: #fff;
+	padding: 0;
+	margin: 0;
+	width:50px;
+	border-radius: 0px 5px 5px 0px; }
+#cursos:hover{
+			transition:1.0s;
+			background:#3e99ac;}

@@ -1,0 +1,136 @@
+/* CSS Document */
+@charset "utf-8";
+@font-face{
+	font-family:"Gangstar";
+	src:url(Fo
+	ntes/deathrattlebb_reg.ttf);
+	}
+	
+	body{
+		color:#fff;
+    	text-shadow:1px 1px 1px #000; 
+    	text-align:center;
+		background: url(../../Fotos/_Fundos/Fundo8.jpg) fixed;
+        width:400px;
+        font-size:12px;
+    }
+	h3{  padding-bottom:30px;}
+	
+    h4,h3{
+		margin-right:30px;
+		color:#fff;
+    	text-shadow:1px 1.5px 1.5px #000; 
+		font-size:21px;
+		margin-top:8px;}
+		a{
+			text-decoration:none;
+		}
+		li{
+			list-style:none;
+		}
+		
+		#cursos,h1,h2{text-decoration: underline !important;
+			text-align:center;
+		color:#fff;
+    	text-shadow:1px 1px 1px #000; 
+		font-size:24px;
+		}
+		#cursos{
+			border-radius:8px;
+			color:#fff;
+			text-shadow:1px 1px 1px #000; 
+			font-size:20px;
+			margin:0px;
+			padding: 0px;
+			}
+		#cursos:hover{
+			opacity:0.8;
+			transition:1.0s;
+			background:#3e99ac;
+		}
+		#Interface{
+			margin:0;
+			padding:0;
+			border:px solid #ffd;
+		    padding-bottom:5px;
+		}
+		#voltar{
+	position: absolute;
+	border: 0px solid #000;
+	text-align: center;
+	float: left;
+	left: 10px;
+			}
+			#salas{
+				width:100px;
+				margin:0px;
+				padding:0px;		
+			}
+		#Cabecalho{
+			border:0px solid #000;
+			text-align:center;			
+			}
+		footer#rodape{
+		float:right;
+	    margin-top:2px;
+	    left:100px;
+        clear:both;
+        }
+		
+
+/* CSS Document */
+
+	#if{
+			transition:0.6s;
+			opacity:0.9;
+			border-radius:5px 5px 0px 0px;
+			box-shadow:1px 3px 2px 2px #1d1c1c;
+			background-color:#fff;
+			width:398px;
+			height:200px;
+			text-shadow:1px 2px 2px #000; 
+			font-size:18px;
+			border:1px solid #000;
+		}
+	
+
+				
+	/*BARRA DE PESQUISA*/
+			
+.none{
+	text-decoration:none;
+	border:1px solid #000;
+	width:280px;
+	height:30px;
+	opacity:0.5;
+	border-radius:15px;
+	margin-left:41px;
+	box-shadow:1px 3px 3px #000;
+	}
+.mome{
+	height:30px;
+	border:0px solid #000;
+	padding: 0;
+	margin: 0;
+	width:50px;
+	border-radius: 0px 5px 5px 0px; }
+	
+.none:hover{
+	transition:2s;
+	width:280px;
+	height:30px;
+	opacity:1.0;
+	border-radius:15px;
+	border:1px solid #000;
+	box-shadow:0px 0px 3px #7b7b7b;
+}
+.mome:hover{height: 30px;
+	border: 1px solid #000;
+	background: #a30202;color: #fff;
+	padding: 0;
+	margin: 0;
+	width:50px;
+	border-radius: 0px 5px 5px 0px; }
+
+		
+

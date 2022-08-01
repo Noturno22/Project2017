@@ -1,0 +1,88 @@
+/* CSS Document */
+@charset "utf-8";
+@font-face{
+	font-family:"Gangstar";
+	src:url(Fontes/deathrattlebb_reg.ttf);
+	}
+	body{
+		background: url(../Fotos/_Fundos/MIDIA.png);
+        width:400px;
+        font-size:12px;
+    }
+    h2{
+    	text-shadow:1px 2px 2px #000;
+    	font-size: 14px;
+    	text-align:center;
+    	 color:#fff;
+    	}
+    	a{
+    		text-decoration:none;
+    	}
+    h1{
+    	text-align:center;
+    	 font-family:"Gangstar";
+		}
+		#cursos{
+			color: #ffd;
+			text-shadow:1px 1px 1px #000; 
+			text-decoration: underline;
+			font-size:20px;
+			margin:0px;
+			padding: 0px;
+			border:0px solid #ffd;
+		}
+		#Interface{
+			border:px solid #ffd;
+		}
+          
+		#voltar{
+			padding:0px;
+			border:0px solid #000;
+			float:left;		
+			}
+		#Cabecalho{
+			border:0px solid #000;
+			text-align:center;			
+			}
+		footer#rodape{
+			float:right;
+	    margin-top:2px;
+	    left:100px;
+        clear:both;
+        }
+/*BARRA DE PESQUISA*/
+			
+.none{
+	text-decoration:none;
+	border:1px solid #000;
+	width:270px;
+	height:23px;
+	opacity:0.5;
+	border-radius:15px;
+	margin-left:16px;
+	box-shadow:1px 3px 3px #000;
+	}
+.mome{
+	height:30px;
+	border:0px solid #000;
+	padding: 0;
+	margin: 0;
+	width:50px;
+	border-radius: 0px 5px 5px 0px; }
+	
+.none:hover{
+	transition:2s;
+	width:270px;
+	height:23px;
+	opacity:1.0;
+	border-radius:15px;
+	border:1px solid #000;
+	box-shadow:0px 0px 3px #7b7b7b;
+}
+.mome:hover{height: 30px;
+	border: 1px solid #000;
+	background: #a30202;color: #fff;
+	padding: 0;
+	margin: 0;
+	width:50px;
+	border-radius: 0px 5px 5px 0px; }

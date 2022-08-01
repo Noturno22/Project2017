@@ -1,0 +1,29 @@
+@charset "utf-8";
+@font-face{
+	font-family:"Gangstar";
+	src:url(Fontes/deathrattlebb_reg.ttf);
+	}
+	h1{
+		 text-align:left !important;
+		scursor:cell;
+		text-decoration:underline;
+        text-shadow:1px 1px 1px #3C3C3C;
+        font-size:42px;
+		}
+   p:first-letter{
+	text-decoration:none;
+   	text-shadow:1px 2px 2px #000;
+	font-size:82px;
+	color:#FF0;}
+ body{
+	 text-align:center;
+ 	text-shadow:0.2px 0.2px 0.2px #000000;
+	font-family:"Gangstar", "New York", serif;
+	background:#fde8c0;
+}
+hr{
+	color:#4c43ff;
+}
+#Mais{
+	margin-left:10px;
+}
